@@ -1,0 +1,54 @@
+.cardContainer{
+    height: 100vh !important;
+    width: 100vw !important;  
+    background: rgb(251, 251, 251);  
+}
+
+.cardContainer > div{
+    height: inherit !important;
+    width: inherit !important;  
+    margin: 0 auto !important;
+  
+}
+
+.cardContainer > div  > div{
+    height: inherit !important;
+    width: inherit !important;
+    margin: 0 auto !important;
+
+}
+
+.cardContainer > div  > div > div{
+    background: rgb(241, 241, 241);  
+    border-radius: 45px;
+    max-height: 85vh;
+    width: 93vw !important;
+    max-width: 520px;
+    margin: 0 auto !important;
+    margin-left: 5% !important;
+}
+
+#nameUser{
+    padding: 1%;
+    text-indent: 3%;
+    margin:  0 ;
+}
+
+.carousel.carousel-slider{
+    margin: 0 auto !important;
+
+    max-height: 70vh;
+    padding: 1%;
+    max-width: 520px !important;
+}
+
+
+.btnDiv{
+    position: relative;
+    text-align: center;
+    padding: 2%;
+}
+
+.btn{
+    margin: 1% !important;
+}

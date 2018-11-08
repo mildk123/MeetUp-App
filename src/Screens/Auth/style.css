@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Slabo+27px');
+
+
+.myComponent{
+    background: linear-gradient(30deg, #f02fc2, #6094ea);
+    margin: -10%;
+    height: 100vh;
+    padding: 15%;
+}
+.myComponent > h1{
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    word-spacing: 25px;
+    text-align: center;
+    margin-top: 25%;
+    font-size: 500%;
+}
+
+.myComponent > div > ul > li{
+    list-style-type: none;
+}
+
+.btnDiv{
+    position: relative;
+    text-align: center;
+    padding: 2%;
+}
+
+.btn{
+    margin: 1% !important;
+}
